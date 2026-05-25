@@ -168,8 +168,7 @@ aspectRatio: "wide",
 gridSpan:"medium",
 },
 
-
-];
+] as const;
 
 export default function ProjectGrid() {
 
