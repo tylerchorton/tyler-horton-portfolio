@@ -147,6 +147,8 @@ ${
     muted
     loop
     playsInline
+    disablePictureInPicture
+    disableRemotePlayback
     className={`
       absolute
       inset-0
