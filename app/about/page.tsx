@@ -62,22 +62,22 @@ export default function About() {
 
           <p
             className="
-              mt-10
+              mt-15
               text-[12px]
-              md:text-[13px]
-              uppercase
-              tracking-[0.35em]
+              md:text-[15px]
+              font-display
+              tracking-[0.05em]
               opacity-70
             "
           >
-            Partner | Editor at Uppercut
+            Emmy award winning editor based in NYC. Partner at Uppercut. Lets make something special together.
           </p>
 
           {/* Links */}
 
           <div
             className="
-              mt-16
+              mt-14
               flex
               flex-col
               gap-5
